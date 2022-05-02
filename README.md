@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carson-Fletcher (He/Him)
 - 👀 I’m interested in programing I guess
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on NO THANK YOU
 - 📫 How to reach me NO THANK YOU
 
